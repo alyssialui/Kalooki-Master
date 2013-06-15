@@ -1,0 +1,21 @@
+package com.libratech.kalookimaster;
+
+public class Player {
+	
+	private String name;
+    private int numCalls, numCards = 0, score;
+    private Card[] playerHand = new Card[25];
+
+    //constructor
+    public Player(String p_name, Card[] p_hand)
+    {
+        name = p_name;
+        //picture = p_pic;
+        //IPaddress = p_IP;
+        numCalls = 0;
+        numCards = 0;
+        score = 0;
+        playerHand = p_hand;
+    }
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Kalooki-Master\.metadata\.plugins\org.eclipse.jdt.core
+3406581547.index
+2008596738.index
+1638725023.index
